@@ -1,7 +1,7 @@
 Angular daea
 ====
 
-This is a fork of the [Digital Atlas of Egyptian Archaeology](http://matrix-msu.github.io/daea/).
+This is a fork of the [Digital Atlas of Egyptian Archaeology](https://github.com/matrix-msu/daea).
 
 The goal of this fork is to 'wrap' the entire project in [Angular JS](https://github.com/angular) to create a functioning Single Page Application.
 
