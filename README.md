@@ -5,6 +5,12 @@ This is a fork of the [Digital Atlas of Egyptian Archaeology](http://matrix-msu.
 
 The goal of this fork is to 'wrap' the entire project in [Angular JS](https://github.com/angular) to create a functioning Single Page Application.
 
+### New Project: Where I am at
+
+Attempted to make this project a single page application. I 'wrapped' everything in Angular. But nothing loaded at all. I attempted to create directives from the jquery to no avail. Project always loaded blank running from localhost. Attempted to integrate the Angular Leaflet UI to no avail. 
+
+I wish I had done this on github earlier to track my changes and issues, etc. Unfortunately starting from a half-baked project on my end. You are entering in the middle of a mess I created with no prior knowledge of what worked and what did not work.
+
 Please fork this project, make it your own, collaborate, etc. 
 
 
